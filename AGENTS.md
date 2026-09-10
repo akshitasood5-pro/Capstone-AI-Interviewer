@@ -1,4 +1,4 @@
-# AGENTS.md — PrepArena
+# AGENTS.md — PrepPilot
 
 > This file is read automatically by Antigravity (and any Claude session) before starting work in this repo.
 > It is the single source of truth for how agents should behave here. Every team member's agent session reads
@@ -19,11 +19,11 @@ between "5 people vibe-coding" and "5 incompatible codebases."
 
 ## 1. What this project is
 
-PrepArena — a hybrid AI + human-expert mock interview platform for interview preparation. Full detail in
+PrepPilot — a hybrid AI + human-expert mock interview platform for interview preparation. Full detail in
 `memory-bank/projectbrief.md`. One line: candidates book mock interviews either with a real expert (senior/
 mentor/industry professional) or an AI interviewer, then get a structured feedback report either way.
 
-("PrepArena" is a placeholder name — rename freely, then find/replace it across these files.)
+("PrepPilot" is a placeholder name — rename freely, then find/replace it across these files.)
 
 ## 2. Tech stack (do not substitute without updating techContext.md)
 
